@@ -64,4 +64,4 @@ if __name__ == "__main__":
         print('V1 + V2 =', my_calculator.last_result)
         is_running = int(input("Voulez-vous faire une autre addition ? [1 = Oui | 2 = Non] : "))
 
-    print("Au revoir :)")
+    print("A la prochaine :)")
